@@ -1,0 +1,1 @@
+This repo is a very basic API queries essential for Informatica IICS Administrator Functions. It eases extraction of important security and audit logs and reports required to track progress of activities and sso sign-ons.  
