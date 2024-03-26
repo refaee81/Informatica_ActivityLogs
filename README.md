@@ -19,3 +19,4 @@ Displays the following information:
 Authentication events for users such as when a user in the organization logged in to or out of Informatica Intelligent Cloud Services.
 Events for Secure Agents and organizations such as when each agent was created or updated, when organization information was updated, and the name of the user who modified the agent or organization.
 To open the security log, in Administrator, select Logs, and then select Security Logs at the top of the page.
+![image](https://github.com/refaee81/Informatica__API/assets/48224520/074f5a8f-c349-4009-8031-ad483e4b6b8e)
